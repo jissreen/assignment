@@ -37,5 +37,5 @@ This will run the development server and automatically open the project in your 
 
 
 License
-This project is licensed under the MIT License.
+This project is licensed under the ISC License.
 
