@@ -22,8 +22,7 @@ const Footer = () => {
           <div className='box logo'>
             <h1>INFOMIA</h1>
             <span>ONLINE SOLUTIONS</span>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-
+            <p>Where IT dreams become reality .Embrace the future ,one byte at a time</p>
             <i className='fab fa-facebook-f icon'></i>
             <i className='fab fa-twitter icon'></i>
             <i className='fab fa-instagram icon'></i>
