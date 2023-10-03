@@ -16,11 +16,12 @@ const Header = () => {
               <Link to='/'>Home</Link>
             </li>
             <li>
-              <Link to='/courses'>AllProjects</Link>
-            </li>
-            <li>
               <Link to='/about'>About</Link>
             </li>
+            <li>
+              <Link to='/allprojects'>AllProjects</Link>
+            </li>
+            
             <li>
               <Link to='/contact'>Contact</Link>
             </li>
